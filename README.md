@@ -25,7 +25,6 @@ Python (Pandas, SciPy), Seaborn/Matplotlib, Google Colab
 4. **Interpretation** — translated p-values into plain-language business takeaways
 
 ## Key Findings
-*(fill in with your actual results)*
 - e.g. Business class passengers report satisfaction at a significantly higher rate
   (chi-square p < 0.05)
 - Departure delay shows a statistically significant but modest effect on satisfaction
